@@ -1,0 +1,8 @@
+.THIS.board {
+    background-color: white;
+    position: relative;
+}
+.THIS .winword{
+    text-transform: uppercase;
+    font-weight: bold;
+}
